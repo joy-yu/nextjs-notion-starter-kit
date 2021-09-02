@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'JOJO 的奇妙博客',
-  domain: 'https://cherry-tuna-ef3.notion.site/JOJO-18d773439d9d4e94953a3f06d161af77',
+  domain: 'cherry-tuna-ef3.notion.site/JOJO-18d773439d9d4e94953a3f06d161af77',
   author: 'joy-yu',
 
   // open graph metadata (optional)

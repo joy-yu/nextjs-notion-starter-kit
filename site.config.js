@@ -12,9 +12,9 @@ module.exports = {
   author: 'joy-yu',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+  description: 'JOJO 的奇妙博客',
+  socialImageTitle: 'joy-yu',
+  socialImageSubtitle: '阿瓦达啃大瓜!',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',

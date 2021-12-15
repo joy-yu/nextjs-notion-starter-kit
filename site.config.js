@@ -14,7 +14,7 @@ module.exports = {
   // open graph metadata (optional)
   description: 'JOJO 的奇妙博客',
   socialImageTitle: 'joy-yu',
-  socialImageSubtitle: '阿瓦达啃大瓜!',
+  socialImageSubtitle: '阿瓦达啃大瓜!!',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',

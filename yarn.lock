@@ -3775,6 +3775,14 @@ notion-utils@^4.10.0:
     notion-types "^4.10.0"
     p-queue "6"
 
+notion-utils@^4.11.4:
+  version "4.11.4"
+  resolved "https://registry.npmmirror.com/notion-utils/download/notion-utils-4.11.4.tgz#2875f69a94275e80ddc8fb4b96cf86a985d65cab"
+  integrity sha512-1iK8S98VpvdMsjvmdXZUpao8pNllW2YYDDOYGMb95lvtRJatnBqNaomc5AXRpZmtnENxD0cSgtryw28Iw/Kejw==
+  dependencies:
+    notion-types "^4.10.0"
+    p-queue "6"
+
 npm-run-all@^4.1.5:
   version "4.1.5"
   resolved "https://registry.yarnpkg.com/npm-run-all/-/npm-run-all-4.1.5.tgz#04476202a15ee0e2e214080861bff12a51d98fba"
@@ -4556,10 +4564,10 @@ react-modal@^3.14.3:
     react-lifecycles-compat "^3.0.0"
     warning "^4.0.3"
 
-react-notion-x@^4.11.0:
-  version "4.11.0"
-  resolved "https://registry.yarnpkg.com/react-notion-x/-/react-notion-x-4.11.0.tgz#a310b362bca361e30af388b0b03cf2d459022e57"
-  integrity sha512-lJr9fGJxXDV4L0F2xrSPqrMRtjM3UaXK7y3d51yPd7csoy6Oh7Xdk2WPpH4PVF18iS3iGv+OpOQX1BFCaU4S2A==
+react-notion-x@^4.10.0:
+  version "4.11.4"
+  resolved "https://registry.npmmirror.com/react-notion-x/download/react-notion-x-4.11.4.tgz#04c1528724a2a49772a228fdbcde9d605aaf9d77"
+  integrity sha512-tVftpL9OLwUYsRHRhcu13toLFcnldCotBpSvtKZWO5WT0Waa8Veoy1epZXvxotkf7sKTJ/cInOvXpccEwloLjw==
   dependencies:
     "@matejmazur/react-katex" "^3.1.3"
     date-fns "^2.15.0"
@@ -4569,7 +4577,7 @@ react-notion-x@^4.11.0:
     lodash.throttle "^4.1.1"
     medium-zoom "^1.0.6"
     notion-types "^4.10.0"
-    notion-utils "^4.10.0"
+    notion-utils "^4.11.4"
     prismjs "^1.20.0"
     rc-dropdown "^3.1.2"
     rc-menu "^9.0.14"
